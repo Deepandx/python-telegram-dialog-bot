@@ -2,7 +2,7 @@
 Simple API for Python bots with complicated dialogs.
 
 # Install
-
+added mute and unmute to tagated users in telegram 
     python3 -m virtualenv venv
     source venv/bin/activate
     python3 setup.py install
